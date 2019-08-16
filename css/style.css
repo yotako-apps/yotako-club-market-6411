@@ -1,0 +1,328 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0,
+  .style1 {
+    display: flex;
+    margin-top: 0;
+    flex-direction: column
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/jdnd5djzegi712.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    width: 375px;
+    height: 812px
+  }
+  .style1 {
+    background-color: #fff;
+    box-shadow: 0 0 2px 1px #d1d1d1;
+    width: 100%;
+    height: 56px;
+    align-self: stretch;
+    justify-content: center
+  }
+  .image0container0row0 {
+    display: flex;
+    margin-left: 13px;
+    width: 344px;
+    height: 32px;
+    align-items: center
+  }
+  .style3 {
+    margin-left: 0;
+    width: 28px;
+    height: 27px
+  }
+  .style4 {
+    margin-left: 98px;
+    width: 97px;
+    height: 100%
+  }
+  .style2 {
+    margin-left: 91px;
+    width: 29px;
+    height: 28px
+  }
+  .image0row1 {
+    display: flex;
+    margin-left: 15px;
+    margin-top: 406px;
+    width: 341px;
+    height: 18px;
+    align-items: center
+  }
+  .style6,
+  .style7 {
+    color: #fd7100;
+    text-align: center;
+    font-family: myriadarabic,serif;
+    font-size: 1.0625em;
+    margin-left: 0;
+    height: 10px
+  }
+  .style6 {
+    color: #fff;
+    font-size: 1.1875em;
+    font-weight: 700;
+    margin-left: 235px;
+    height: 14px
+  }
+  .style5 {
+    margin-left: 1px;
+    width: 17px;
+    height: 100%
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0,
+  .style1 {
+    display: flex;
+    margin-top: 0;
+    flex-direction: column
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/jdnd5djzegi712.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    width: 768px;
+    height: 1663px
+  }
+  .style1 {
+    background-color: #fff;
+    box-shadow: 0 0 2px 1px #d1d1d1;
+    width: 100%;
+    height: 115px;
+    align-self: stretch;
+    justify-content: center
+  }
+  .image0container0row0 {
+    display: flex;
+    margin-left: 27px;
+    width: 705px;
+    height: 66px;
+    align-items: center
+  }
+  .style3 {
+    margin-left: 0;
+    width: 57px;
+    height: 55px
+  }
+  .style4 {
+    margin-left: 201px;
+    width: 199px;
+    height: 100%
+  }
+  .style2 {
+    margin-left: 186px;
+    width: 59px;
+    height: 57px
+  }
+  .image0row1 {
+    display: flex;
+    margin-left: 31px;
+    margin-top: 831px;
+    width: 698px;
+    height: 37px;
+    align-items: center
+  }
+  .style6,
+  .style7 {
+    color: #fd7100;
+    text-align: center;
+    font-family: myriadarabic,serif;
+    font-size: 2.176em;
+    margin-left: 0;
+    height: 20px
+  }
+  .style6 {
+    color: #fff;
+    font-size: 2.432em;
+    font-weight: 700;
+    margin-left: 481px;
+    height: 29px
+  }
+  .style5 {
+    margin-left: 2px;
+    width: 35px;
+    height: 100%
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0,
+  .style1 {
+    display: flex;
+    margin-top: 0;
+    flex-direction: column
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/jdnd5djzegi712.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    width: 920px;
+    height: 1992px
+  }
+  .style1 {
+    background-color: #fff;
+    box-shadow: 0 0 2px 1px #d1d1d1;
+    width: 100%;
+    height: 137px;
+    align-self: stretch;
+    justify-content: center
+  }
+  .image0container0row0 {
+    display: flex;
+    margin-left: 32px;
+    width: 844px;
+    height: 79px;
+    align-items: center
+  }
+  .style3 {
+    margin-left: 0;
+    width: 69px;
+    height: 66px
+  }
+  .style4 {
+    margin-left: 240px;
+    width: 238px;
+    height: 100%
+  }
+  .style2 {
+    margin-left: 223px;
+    width: 71px;
+    height: 69px
+  }
+  .image0row1 {
+    display: flex;
+    margin-left: 37px;
+    margin-top: 996px;
+    width: 837px;
+    height: 44px;
+    align-items: center
+  }
+  .style6,
+  .style7 {
+    color: #fd7100;
+    text-align: center;
+    font-family: myriadarabic,serif;
+    font-size: 2.6066666666666665em;
+    margin-left: 0;
+    height: 25px
+  }
+  .style6 {
+    color: #fff;
+    font-size: 2.913333333333333em;
+    font-weight: 700;
+    margin-left: 577px;
+    height: 34px
+  }
+  .style5 {
+    margin-left: 2px;
+    width: 42px;
+    height: 100%
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0,
+  .style1 {
+    display: flex;
+    margin-top: 0;
+    flex-direction: column
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/jdnd5djzegi712.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    width: 1200px;
+    height: 2598px
+  }
+  .style1 {
+    background-color: #fff;
+    box-shadow: 0 0 2px 1px #d1d1d1;
+    width: 100%;
+    height: 179px;
+    align-self: stretch;
+    justify-content: center
+  }
+  .image0container0row0 {
+    display: flex;
+    margin-left: 42px;
+    width: 1101px;
+    height: 102px;
+    align-items: center
+  }
+  .style3 {
+    margin-left: 0;
+    width: 90px;
+    height: 86px
+  }
+  .style4 {
+    margin-left: 314px;
+    width: 310px;
+    height: 100%
+  }
+  .style2 {
+    margin-left: 291px;
+    width: 93px;
+    height: 90px
+  }
+  .image0row1 {
+    display: flex;
+    margin-left: 48px;
+    margin-top: 1299px;
+    width: 1091px;
+    height: 58px;
+    align-items: center
+  }
+  .style6,
+  .style7 {
+    color: #fd7100;
+    text-align: center;
+    font-family: myriadarabic,serif;
+    font-size: 3.4000000000000004em;
+    margin-left: 0;
+    height: 32px
+  }
+  .style6 {
+    color: #fff;
+    font-size: 3.8000000000000003em;
+    font-weight: 700;
+    margin-left: 752px;
+    height: 45px
+  }
+  .style5 {
+    margin-left: 3px;
+    width: 54px;
+    height: 100%
+  }
+}
